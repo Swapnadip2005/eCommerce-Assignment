@@ -6,7 +6,7 @@ This is a responsive eCommerce website built with **Next.js**, **Tailwind CSS** 
 
 ## 🚀 Live Demo
 
-🔗 [Check out Live](https://your-vercel-link.vercel.app/)
+🔗 [Check out Live](https://e-commerce-assignment-kappa.vercel.app/)
 
 ---
 
