@@ -9,7 +9,7 @@ export default function CategoryCard({ name, isActive, image }) {
     >
       {/* Category Image */}
       <img
-        src={`/CategoryImage/${image}`}
+        src={`${image}`}
         alt={name}
         className="w-full h-[200px] sm:h-[200px] md:h-[220px] object-cover rounded-md"
       />
